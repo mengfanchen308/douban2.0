@@ -37,7 +37,7 @@ class SleepFunction(object):
             pass
 
 
-def super_downloader(url, referer='https://movie.douban.com/', cookies=False, proxy=False, params=None, timeout=3):
+def super_downloader(url, referer='https://movie.douban.com/', cookies=False, proxy=False, params=None, timeout=5):
     header = {'Referer': referer,
               'User-Agent': random.choice(user_agents)}
     if not cookies and not proxy:
