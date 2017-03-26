@@ -1,0 +1,1048 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="73c81ceb-6720-4f2c-90a5-362ad532d376" name="Default" comment="vcs test">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/25815034@2016-10-17.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../algorithm.rar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../douban.rar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../douban/movie_comment/罗曼蒂克消亡史24751763@2017-02-07.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../douban/movie_comment/长城6982558@2017-03-04.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../douban2.0.rar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master.rar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/data/out/三生三世十里桃花_全国_PC趋势.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/data/out/三生三世十里桃花_全国_整体趋势.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/data/out/三生三世十里桃花_全国_移动趋势.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/data/out/三生三世十里桃花_北京_PC趋势.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/data/out/三生三世十里桃花_北京_整体趋势.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/data/out/三生三世十里桃花_北京_移动趋势.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/img_model/,.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/img_model/0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/img_model/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/img_model/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/img_model/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/img_model/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/img_model/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/img_model/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/img_model/7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/img_model/8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/img_model/9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/num lib/0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/num lib/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/num lib/10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/num lib/11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/num lib/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/num lib/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/num lib/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/num lib/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/num lib/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/num lib/7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/num lib/8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/num lib/9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/num lib/comp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/num lib/little.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/num lib/little1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/num lib/little2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/num lib/maohao.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/num lib/symbol.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/明星数据.rar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/侨女日记-79174@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/像素大战-246426@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/全民目击-78171@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/六弄咖啡馆-248716@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/再次出发之纽约遇见你-246308@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/冰河追凶-247458@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/分手再说我爱你-344687@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/分手合约-78089@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/分歧者2：绝地反击-246242@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/分歧者3：忠诚世界-338406@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/分歧者：异类觉醒-78514@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/刑警兄弟-343477@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/刺客聂隐娘-78668@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/前任2：备胎反击战-248944@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/前任攻略-78302@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/剩者为王-246676@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/功夫熊猫3-78535@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/北京遇上西雅图-78041@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/北京遇上西雅图之不二情书-247575@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/十二公民-246428@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/十月初五的月光-247897@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/千锤百炼-72743@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/博物馆奇妙夜3-246015@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/卧虎藏龙：青冥宝剑-246051@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/危城-247713@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/发条城市-345076@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/古曼-245981@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/可爱的你-246007@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/史努比：花生大电影-246303@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/叶问3-76365@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/名侦探柯南：业火的向日葵-249013@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/后会无期-78697@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/听说-247536@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/命中注定-246216@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/咕噜咕噜美人鱼-342109@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/咱们的工会主席-78859@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/咱们结婚吧-246315@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/哆啦A梦：伴我同行-78525@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/哆啦A梦：新·大雄的日本诞生-343930@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/哥斯拉-78611@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/唐人街探案-247300@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/四大名捕大结局-78824@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/回到爱开始的地方-78205@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/在世界中心呼唤爱-342747@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/坏姐姐之拆婚联盟-246134@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/坏蛋必须死-246498@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/垫底辣妹-248997@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/复仇者联盟2：奥创纪元-78429@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/夏有乔木 雅望天堂-246231@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/夜半哭声-343275@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/夜孔雀-247645@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/大唐玄奘-338357@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/大话天仙-78457@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/大鱼海棠-246591@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/天亮之前-248851@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/天台爱情-78097@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/天将雄师-79082@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/太平轮·彼岸-246054@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/太平轮（上）-78481@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/太空熊猫历险记-78546@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/失孤-78866@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/头脑特工队-78605@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/奇幻森林-246970@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/奈河-247057@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/奔爱-247898@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/女汉子真爱公式-248828@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/宅女侦探桂香-246186@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/完美假妻168-78281@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/宫锁沉香-78176@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/寄生兽-245997@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/寒战2-341289@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/封神传奇-247186@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/小时代3：刺金时代-78487@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/小时代4：灵魂尽头-246001@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/小王子-246386@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/小羊肖恩-246338@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/小飞侠：幻梦启航-246326@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/小黄人大眼萌-78684@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/少年班-246439@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/山河故人-247161@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/巴啦啦小魔仙-78042@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/巴啦啦小魔仙之魔箭公主-342353@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/巴霍巴利王：开端-341361@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/巴黎危机-338424@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/师父-246080@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/帕丁顿熊-78827@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/年兽大作战-248366@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/年少轻狂-247081@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/幸运是我-248119@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/床下有人2-245964@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/异种-248016@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/微微一笑很倾城-246897@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/心花路放-78612@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/心迷宫-248232@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/忍者神龟2：破影而出-13511@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/忍者神龟：变种时代-245931@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/忠烈杨家将-826@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/快手枪手快枪手-247301@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/怦然星动-338503@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/怨灵人偶-78172@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/恋爱中的城市-246297@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/惊天大逆转-248909@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/惊天绑架团-247039@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/惊天魔盗团-78210@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/惊天魔盗团2-246333@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/意外的恋爱时光-78100@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/愤怒的小鸟-246188@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/憨哥进城-341591@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/我叫MT之山口山战记-246045@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/我是路人甲-78451@box.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/.idea/StarsAnalysis.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars/乔任梁.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars/刘诗诗.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars/宋茜.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars/张天爱.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars/杨幂.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars/王俊凯.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars/王源.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars/薛之谦.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars/陈乔恩.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars/陈伟霆.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars1/angelababy.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars1/乔任梁.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars1/付辛博.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars1/倾城四少.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars1/傅园慧.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars1/周冬雨.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars1/张一山.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars1/张艺兴.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars1/易烊千玺.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars1/李宇春.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars1/王传君.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars1/王宝强.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars1/郑秀晶.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars1/闫安.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars1/陈伟霆.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars1/马天宇.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Graphic.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/api.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/browser.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/city.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/config.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/config.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/data/cookie.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/img_util.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/multi_thread.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/task.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/utils/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/utils/log.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/requirements.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/.idea/index_baidu2.0.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/.idea/python.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/Data_stars/movieDatas10-13/巴黎危机.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/Data_stars/movieDatas10-13/暗杀游戏.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/Data_stars/movieDatas10-13/湄公河行动.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/Data_stars/starsDatas9-25/何炅.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/Data_stars/starsDatas9-25/关晓彤.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/Data_stars/starsDatas9-25/刘诗诗.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/Data_stars/starsDatas9-25/唐嫣.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/Data_stars/starsDatas9-25/徐璐.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/Data_stars/starsDatas9-25/林心如.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/calculate_time.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/change_order.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/choose_area.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/geckodriver.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/index.baidu.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/recognition.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/screen_shot.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/shiyan.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/shiyan2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/sign_in_index_baidu.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/stars/stars.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/十部电影评论.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/十部电影详情.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../maoyan_piaofang/.idea/maoyan_piaofang.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../maoyan_piaofang/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../maoyan_piaofang/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../maoyan_piaofang/.idea/workspace.xml" />
+    </list>
+    <ignored path="douban2.0.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="douban2.0" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/comment/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1400">
+              <caret line="73" column="12" selection-start-line="73" selection-start-column="12" selection-end-line="73" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="request_util.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/comment/request_util.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="267">
+              <caret line="85" column="41" selection-start-line="85" selection-start-column="41" selection-end-line="85" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/comment/persion.py" />
+        <option value="$PROJECT_DIR$/comment/actor_name_list.txt" />
+        <option value="$PROJECT_DIR$/comment/errorlist/movie_id.txt" />
+        <option value="$PROJECT_DIR$/comment/python3_rank.py" />
+        <option value="$PROJECT_DIR$/comment/person.py" />
+        <option value="$PROJECT_DIR$/comment/namelist" />
+        <option value="$PROJECT_DIR$/comment/mysql_curd.py" />
+        <option value="$PROJECT_DIR$/comment/config.ini" />
+        <option value="$PROJECT_DIR$/comment/movie.py" />
+        <option value="$PROJECT_DIR$/comment/shiyan.py" />
+        <option value="$PROJECT_DIR$/comment/main.py" />
+        <option value="$PROJECT_DIR$/comment/request_util.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="douban2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="douban2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="douban2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="comment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunManager" selected="Python.request_util">
+    <configuration default="false" name="shiyan" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/comment" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="douban2.0" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/comment/shiyan.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="request_util" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/comment" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="douban2.0" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/comment/request_util.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/comment" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="douban2.0" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/comment/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="person" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/comment" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="douban2.0" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/comment/person.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="movie" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/comment" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="douban2.0" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/comment/movie.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="douban2.0" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="douban2.0" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="douban2.0" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="douban2.0" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="douban2.0" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="douban2.0" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="douban2.0" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.shiyan" />
+      <item index="1" class="java.lang.String" itemvalue="Python.request_util" />
+      <item index="2" class="java.lang.String" itemvalue="Python.main" />
+      <item index="3" class="java.lang.String" itemvalue="Python.person" />
+      <item index="4" class="java.lang.String" itemvalue="Python.movie" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.request_util" />
+        <item index="1" class="java.lang.String" itemvalue="Python.main" />
+        <item index="2" class="java.lang.String" itemvalue="Python.shiyan" />
+        <item index="3" class="java.lang.String" itemvalue="Python.movie" />
+        <item index="4" class="java.lang.String" itemvalue="Python.person" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary="vcs test">
+      <created>1489311223478</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1489311223478</updated>
+    </task>
+    <task id="LOCAL-00002" summary="vcs test">
+      <created>1489311331809</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1489311331809</updated>
+    </task>
+    <task id="LOCAL-00003" summary="vcs test">
+      <created>1489311485121</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1489311485121</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73c81ceb-6720-4f2c-90a5-362ad532d376" name="Default" comment="vcs test" />
+      <created>1489313867074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1489313867074</updated>
+    </task>
+    <task id="LOCAL-00004" summary="vcs test">
+      <created>1490514606230</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1490514606230</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16910689" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37223974" sideWeight="0.5087848" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328594" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40600315" sideWeight="0.49121523" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39556137" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328594" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="vcs test" />
+    <option name="LAST_COMMIT_MESSAGE" value="vcs test" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/comment/shiyan.py</url>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="9" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/comment/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comment/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comment/shiyan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comment/mysql_curd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comment/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comment/mysql_curd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python36/Lib/site-packages/requests/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="321" column="0" selection-start-line="321" selection-start-column="0" selection-end-line="321" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python36/Lib/site-packages/requests/cookies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="502" column="4" selection-start-line="502" selection-start-column="4" selection-end-line="502" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python36/Lib/http/cookiejar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36720">
+          <caret line="1840" column="6" selection-start-line="1840" selection-start-column="6" selection-end-line="1840" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python36/Lib/site-packages/gevent/pool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-406">
+          <caret line="101" column="0" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python36/Lib/site-packages/requests/packages/urllib3/connectionpool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="623" column="0" selection-start-line="623" selection-start-column="0" selection-end-line="623" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python36/Lib/site-packages/requests/adapters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1983">
+          <caret line="489" column="27" selection-start-line="489" selection-start-column="27" selection-end-line="489" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comment/persion.py" />
+    <entry file="file://D:/Python36/Lib/site-packages/pymysql/connections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1912">
+          <caret line="527" column="25" selection-start-line="527" selection-start-column="25" selection-end-line="527" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python36/Lib/site-packages/pymysql/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="89" column="14" selection-start-line="89" selection-start-column="14" selection-end-line="89" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python36/Lib/site-packages/requests/packages/urllib3/connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="137" column="0" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python36/Lib/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="37" column="18" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comment/user3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comment/user2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python36/Lib/site-packages/requests/sessions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="419" column="15" selection-start-line="419" selection-start-column="8" selection-end-line="419" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python36/Lib/configparser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="761" column="37" selection-start-line="761" selection-start-column="37" selection-end-line="761" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/10467.jpg" />
+    <entry file="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/1072250519/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="339" column="4" selection-start-line="339" selection-start-column="4" selection-end-line="339" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comment/user1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/1072250519/greenlet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="55" column="11" selection-start-line="55" selection-start-column="11" selection-end-line="55" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/1072250519/lxml/etree/_ElementTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="247" column="3" selection-start-line="247" selection-start-column="3" selection-end-line="247" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/1072250519/lxml/etree/_Element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/1072250519/lxml/etree/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8980">
+          <caret line="449" column="4" selection-start-line="449" selection-start-column="4" selection-end-line="449" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python36/Lib/site-packages/requests/exceptions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python36/Lib/site-packages/gevent/hub.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="87" column="0" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python36/Lib/site-packages/gevent/greenlet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="638" column="4" selection-start-line="638" selection-start-column="4" selection-end-line="638" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python36/Lib/site-packages/gevent/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="52" column="14" selection-start-line="52" selection-start-column="14" selection-end-line="52" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comment/errorlist/movie" />
+    <entry file="file://$PROJECT_DIR$/comment/actor_name_list.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="185" column="3" selection-start-line="185" selection-start-column="3" selection-end-line="185" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comment/movieNull.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comment/moviename.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comment/person.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="53" column="4" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comment/errorlist/person_id.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comment/errorlist/movie_id.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comment/namelist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comment/python3_rank.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="49" column="22" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comment/errorlist/movie_info.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python36/Lib/site-packages/pymysql/cursors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="165" column="0" selection-start-line="165" selection-start-column="0" selection-end-line="165" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comment/shiyan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#32#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comment/mysql_curd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="52" column="11" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comment/movie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="46" column="47" selection-start-line="46" selection-start-column="47" selection-end-line="46" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comment/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comment/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1400">
+          <caret line="73" column="12" selection-start-line="73" selection-start-column="12" selection-end-line="73" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comment/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comment/verify.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comment/request_util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="85" column="41" selection-start-line="85" selection-start-column="41" selection-end-line="85" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
