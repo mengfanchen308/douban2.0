@@ -2,238 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73c81ceb-6720-4f2c-90a5-362ad532d376" name="Default" comment="vcs test">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/25815034@2016-10-17.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../algorithm.rar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../douban.rar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../douban/movie_comment/罗曼蒂克消亡史24751763@2017-02-07.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../douban/movie_comment/长城6982558@2017-03-04.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../douban2.0.rar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master.rar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/data/out/三生三世十里桃花_全国_PC趋势.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/data/out/三生三世十里桃花_全国_整体趋势.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/data/out/三生三世十里桃花_全国_移动趋势.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/data/out/三生三世十里桃花_北京_PC趋势.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/data/out/三生三世十里桃花_北京_整体趋势.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/data/out/三生三世十里桃花_北京_移动趋势.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/img_model/,.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/img_model/0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/img_model/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/img_model/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/img_model/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/img_model/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/img_model/5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/img_model/6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/img_model/7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/img_model/8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/img_model/9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/num lib/0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/num lib/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/num lib/10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/num lib/11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/num lib/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/num lib/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/num lib/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/num lib/5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/num lib/6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/num lib/7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/num lib/8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/num lib/9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/num lib/comp.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/num lib/little.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/num lib/little1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/num lib/little2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/num lib/maohao.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/num lib/symbol.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/明星数据.rar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/侨女日记-79174@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/像素大战-246426@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/全民目击-78171@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/六弄咖啡馆-248716@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/再次出发之纽约遇见你-246308@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/冰河追凶-247458@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/分手再说我爱你-344687@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/分手合约-78089@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/分歧者2：绝地反击-246242@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/分歧者3：忠诚世界-338406@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/分歧者：异类觉醒-78514@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/刑警兄弟-343477@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/刺客聂隐娘-78668@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/前任2：备胎反击战-248944@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/前任攻略-78302@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/剩者为王-246676@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/功夫熊猫3-78535@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/北京遇上西雅图-78041@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/北京遇上西雅图之不二情书-247575@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/十二公民-246428@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/十月初五的月光-247897@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/千锤百炼-72743@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/博物馆奇妙夜3-246015@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/卧虎藏龙：青冥宝剑-246051@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/危城-247713@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/发条城市-345076@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/古曼-245981@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/可爱的你-246007@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/史努比：花生大电影-246303@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/叶问3-76365@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/名侦探柯南：业火的向日葵-249013@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/后会无期-78697@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/听说-247536@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/命中注定-246216@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/咕噜咕噜美人鱼-342109@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/咱们的工会主席-78859@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/咱们结婚吧-246315@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/哆啦A梦：伴我同行-78525@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/哆啦A梦：新·大雄的日本诞生-343930@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/哥斯拉-78611@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/唐人街探案-247300@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/四大名捕大结局-78824@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/回到爱开始的地方-78205@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/在世界中心呼唤爱-342747@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/坏姐姐之拆婚联盟-246134@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/坏蛋必须死-246498@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/垫底辣妹-248997@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/复仇者联盟2：奥创纪元-78429@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/夏有乔木 雅望天堂-246231@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/夜半哭声-343275@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/夜孔雀-247645@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/大唐玄奘-338357@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/大话天仙-78457@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/大鱼海棠-246591@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/天亮之前-248851@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/天台爱情-78097@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/天将雄师-79082@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/太平轮·彼岸-246054@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/太平轮（上）-78481@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/太空熊猫历险记-78546@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/失孤-78866@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/头脑特工队-78605@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/奇幻森林-246970@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/奈河-247057@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/奔爱-247898@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/女汉子真爱公式-248828@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/宅女侦探桂香-246186@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/完美假妻168-78281@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/宫锁沉香-78176@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/寄生兽-245997@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/寒战2-341289@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/封神传奇-247186@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/小时代3：刺金时代-78487@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/小时代4：灵魂尽头-246001@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/小王子-246386@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/小羊肖恩-246338@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/小飞侠：幻梦启航-246326@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/小黄人大眼萌-78684@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/少年班-246439@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/山河故人-247161@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/巴啦啦小魔仙-78042@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/巴啦啦小魔仙之魔箭公主-342353@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/巴霍巴利王：开端-341361@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/巴黎危机-338424@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/师父-246080@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/帕丁顿熊-78827@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/年兽大作战-248366@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/年少轻狂-247081@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/幸运是我-248119@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/床下有人2-245964@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/异种-248016@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/微微一笑很倾城-246897@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/心花路放-78612@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/心迷宫-248232@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/忍者神龟2：破影而出-13511@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/忍者神龟：变种时代-245931@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/忠烈杨家将-826@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/快手枪手快枪手-247301@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/怦然星动-338503@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/怨灵人偶-78172@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/恋爱中的城市-246297@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/惊天大逆转-248909@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/惊天绑架团-247039@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/惊天魔盗团-78210@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/惊天魔盗团2-246333@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/意外的恋爱时光-78100@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/愤怒的小鸟-246188@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/憨哥进城-341591@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/我叫MT之山口山战记-246045@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../电影票房信息/我是路人甲-78451@box.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/.idea/StarsAnalysis.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars/乔任梁.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars/刘诗诗.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars/宋茜.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars/张天爱.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars/杨幂.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars/王俊凯.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars/王源.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars/薛之谦.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars/陈乔恩.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars/陈伟霆.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars1/angelababy.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars1/乔任梁.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars1/付辛博.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars1/倾城四少.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars1/傅园慧.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars1/周冬雨.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars1/张一山.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars1/张艺兴.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars1/易烊千玺.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars1/李宇春.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars1/王传君.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars1/王宝强.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars1/郑秀晶.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars1/闫安.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars1/陈伟霆.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Data_stars1/马天宇.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../StarsAnalysis/Graphic.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/api.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/browser.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/city.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/config.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/config.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/data/cookie.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/img_util.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/multi_thread.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/task.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/utils/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/baidu_index/utils/log.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fetch_baidu_index-master/requirements.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/.idea/index_baidu2.0.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/.idea/python.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/Data_stars/movieDatas10-13/巴黎危机.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/Data_stars/movieDatas10-13/暗杀游戏.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/Data_stars/movieDatas10-13/湄公河行动.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/Data_stars/starsDatas9-25/何炅.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/Data_stars/starsDatas9-25/关晓彤.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/Data_stars/starsDatas9-25/刘诗诗.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/Data_stars/starsDatas9-25/唐嫣.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/Data_stars/starsDatas9-25/徐璐.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/Data_stars/starsDatas9-25/林心如.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/calculate_time.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/change_order.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/choose_area.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/geckodriver.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/index.baidu.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/recognition.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/screen_shot.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/shiyan.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/shiyan2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/sign_in_index_baidu.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/stars/stars.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/十部电影评论.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../index_baidu2.0/十部电影详情.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../maoyan_piaofang/.idea/maoyan_piaofang.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../maoyan_piaofang/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../maoyan_piaofang/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../maoyan_piaofang/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="douban2.0.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -266,8 +36,8 @@
       <file leaf-file-name="request_util.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/comment/request_util.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="85" column="41" selection-start-line="85" selection-start-column="41" selection-end-line="85" selection-end-column="41" />
+            <state relative-caret-position="7">
+              <caret line="72" column="40" selection-start-line="72" selection-start-column="40" selection-end-line="72" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -276,7 +46,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -344,6 +114,16 @@
               <option name="myItemId" value="douban2.0" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="douban2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="douban2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="comment" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
@@ -354,6 +134,10 @@
       <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RunManager" selected="Python.request_util">
     <configuration default="false" name="shiyan" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -638,7 +422,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16910689" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1038,8 +822,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/comment/request_util.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="85" column="41" selection-start-line="85" selection-start-column="41" selection-end-line="85" selection-end-column="41" />
+        <state relative-caret-position="7">
+          <caret line="72" column="40" selection-start-line="72" selection-start-column="40" selection-end-line="72" selection-end-column="40" />
           <folding />
         </state>
       </provider>
