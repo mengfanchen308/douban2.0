@@ -183,8 +183,8 @@ def get_movie_comment(movie_name):
             index = num_q.get()  # 非阻塞的
             try:
                 m.result = m.downloader(m.comment_url.format(index), cookies=True, proxy=True)
-            except requests.exceptions.RequestException:
-                print(index + 'download error!')
+            except requests.exceptions.RequestException as e:
+                print(index + 'download error!' + repr(e))
             gevent.sleep(random.uniform(time[0], time[1]))
             try:
                 m.analysis_comment()

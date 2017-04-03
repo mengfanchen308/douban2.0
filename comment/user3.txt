@@ -1,5 +1,5 @@
 #LWP-Cookies-2.0
-Set-Cookie3: bid=Hbz0ySgNT18; path="/"; domain=".douban.com"; path_spec; domain_dot; expires="2018-03-26 07:49:14Z"; version=0
+Set-Cookie3: bid=lzVmdngt9oI; path="/"; domain=".douban.com"; path_spec; domain_dot; expires="2018-04-03 06:21:27Z"; version=0
 Set-Cookie3: ck=AU2J; path="/"; domain=".douban.com"; path_spec; domain_dot; discard; version=0
 Set-Cookie3: dbcl2="\"152579337:jrFzpqrvpF0\""; path="/"; domain=".douban.com"; path_spec; domain_dot; discard; httponly=None; version=0
-Set-Cookie3: ue="\"727995568@qq.com\""; path="/"; domain=".douban.com"; domain_dot; expires="2018-03-26 07:49:14Z"; httponly=None; version=0
+Set-Cookie3: ue="\"727995568@qq.com\""; path="/"; domain=".douban.com"; domain_dot; expires="2018-04-03 06:21:27Z"; httponly=None; version=0
