@@ -28,6 +28,8 @@ def main(argv):
                             and not mysql_tool.query_mysql_condition('movie_name', [{'name': line.strip()},
                                                                                     ['name']]):
                         mysql_tool.insert_mysql('movie_name', {'name': line.strip()})
+                    elif not line.strip() == '':
+                        print('already have this movie.')
                 # 将名单存好
                 for _ in range(0, 1):
                     get_movie_id()
