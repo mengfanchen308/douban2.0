@@ -98,5 +98,5 @@ def main(argv):
 
 
 if __name__ == '__main__':
-    main('sdf')
+    main(sys.argv)
     print('there are some changes')
