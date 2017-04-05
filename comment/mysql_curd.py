@@ -19,13 +19,13 @@ class MysqlCurd:
         except Exception as e:
             print(e)
 
-    def change_version(self, table):
-        sql = 'update {0} set version=1'.format(table)
-        try:
-            self.curor.execute(sql)
-            self.conn.commit()
-        except Exception as e:
-            print(e)
+    # def change_version(self, table):
+    #     sql = 'update {0} set version=1'.format(table)
+    #     try:
+    #         self.curor.execute(sql)
+    #         self.conn.commit()
+    #     except Exception as e:
+    #         print(e)
 
     def delete_mysql(self, table, param):
         """

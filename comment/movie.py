@@ -121,10 +121,10 @@ def get_movie_info(name=None):
     tool = MysqlCurd('douban_movie')
     tool.connect_mysql()
     if name:
-        movie_id = tool.query_mysql_condition('name_id', [{'movie_name': name}, ['movie_id']])[0][0]
-        if movie_id:
+        try:
+            movie_id = tool.query_mysql_condition('name_id', [{'movie_name': name}, ['movie_id']])[0][0]
             q.put((movie_id, name))
-        else:
+        except IndexError:
             print('no id!')
     else:
         result = tool.query_mysql_condition('name_id', [{'version': 0}, ['movie_id', 'movie_name']])
