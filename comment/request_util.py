@@ -77,7 +77,7 @@ def get_cookie(account):
         #  此处try是因为有时会没有验证码
         image_id = page.xpath('//*[@id="captcha_image"]')[0].attrib['src']
         urllib.request.urlretrieve(image_id, 'verify.jpg')
-        # image_email('verify.jpg')
+        image_email('verify.jpg')
         image = input('input the verify image!')  # 输入验证码
         image_id = image_id.split('&')[0].replace('https://www.douban.com/misc/captcha?id=', '')  # 验证码图片信息
         postdata['captcha-solution'] = image
