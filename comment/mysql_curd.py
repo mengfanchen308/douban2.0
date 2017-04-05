@@ -6,6 +6,8 @@ config.read('config.ini')
 host = config.get('mysql_ip', 'ip')
 user = config.get('mysql_ip', 'user')
 password = config.get('mysql_ip', 'password')
+
+
 class MysqlCurd:
     def __init__(self, database):
         self.db = database

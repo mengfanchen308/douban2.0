@@ -1,5 +1,5 @@
-from comment.request_util import *
-from comment.python3_rank import *
+from .request_util import *
+from .python3_rank import *
 from lxml import etree
 from gevent.queue import JoinableQueue
 from gevent import monkey

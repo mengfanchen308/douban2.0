@@ -4,7 +4,6 @@ from lxml import etree
 import configparser
 import http.cookiejar
 import urllib.request
-from comment.mysql_curd import MysqlCurd
 import random
 from gevent import monkey
 import smtplib

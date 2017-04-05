@@ -1,5 +1,5 @@
-from comment.movie import *
-from comment.person import *
+from .movie import *
+from .person import *
 from gevent import monkey
 import time
 monkey.patch_all(ssl=False)

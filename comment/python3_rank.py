@@ -2,7 +2,7 @@ from gevent import monkey
 from gevent.pool import Pool
 import requests
 import json
-from comment.mysql_curd import MysqlCurd
+from .mysql_curd import MysqlCurd
 monkey.patch_all(ssl=False)
 
 class myspider:
