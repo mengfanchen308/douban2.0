@@ -109,7 +109,7 @@ def image_email(image):
     mail_user = "1034406291@qq.com"  # 用户名
     mail_pass = "yszuerescwhybbca"
     sender = '1034406291@qq.com '
-    receivers = ['1034406291@qq.com']  # 接收邮件，可设置为你的QQ邮箱或者其他邮箱
+    receivers = ['147552660@qq.com']  # 接收邮件，可设置为你的QQ邮箱或者其他邮箱
 
     message = MIMEMultipart('alternative')
     message['From'] = '1034406291@qq.com'
