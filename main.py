@@ -12,8 +12,9 @@ def main(argv):
         print(users)
         for user in users:
             get_cookie(user)
+        exit(0)
     f = open('namelist', 'r', encoding='utf8')
-    f.seek(22, 0)
+    f.readline()
     name = f.readline().strip()
     print('开始对' + name + '进行操作')
     if name == 'movie':
@@ -97,5 +98,5 @@ def main(argv):
 
 
 if __name__ == '__main__':
-    main(sys.argv)
+    main('sdf')
     print('there are some changes')
