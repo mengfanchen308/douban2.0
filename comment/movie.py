@@ -27,7 +27,7 @@ class Movie(object):
             param = {}
             info = comment_item.xpath('div[2]/h3/span[2]')[0]
             try:
-                user_name = str(info.xpath('a')[0].text.encode('utf8'))
+                user_name = str(info.xpath('a')[0].text.encode('utf8')).replace('\\\\x', '')
                 param['user_name'] = user_name
             except IndexError:
                 print('no user')
