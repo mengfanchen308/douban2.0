@@ -5,8 +5,8 @@ from gevent import monkey
 from gevent.queue import JoinableQueue
 from lxml import etree
 
-from comment.objects.request_util import *
-from comment.python3_rank import *
+from .request_util import *
+from ..python3_rank import *
 
 monkey.patch_all(ssl=False)
 

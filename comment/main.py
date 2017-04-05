@@ -1,5 +1,5 @@
-from comment.objects.movie import *
-from comment.objects.person import *
+from .objects.movie import *
+from .objects.person import *
 
 monkey.patch_all(ssl=False)
 
