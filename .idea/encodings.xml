@@ -3,6 +3,6 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/comment/actor_name_list.txt" charset="GBK" />
     <file url="file://$PROJECT_DIR$/comment/alllist.txt" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/comment/errorlist/movie_id.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/errorlist/movie_id.txt" charset="UTF-8" />
   </component>
 </project>

@@ -4,9 +4,10 @@ import requests
 from gevent import monkey
 from gevent.pool import Pool
 
-from comment.objects.mysql_curd import MysqlCurd
+from comment.mysql_curd import MysqlCurd
 
 monkey.patch_all(ssl=False)
+
 
 class myspider:
 

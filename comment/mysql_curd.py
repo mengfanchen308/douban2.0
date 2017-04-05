@@ -1,8 +1,8 @@
 import pymysql
 import configparser
+from comment.config import *
 
-config = configparser.ConfigParser()
-config.read('config.ini')
+
 host = config.get('mysql_ip', 'ip')
 user = config.get('mysql_ip', 'user')
 password = config.get('mysql_ip', 'password')

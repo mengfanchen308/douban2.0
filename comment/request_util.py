@@ -11,10 +11,9 @@ from email.mime.image import MIMEImage
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 import datetime
+from comment.config import *
 monkey.patch_all(ssl=False)
 
-config = configparser.ConfigParser()
-config.read('config.ini')
 users = config.get('need', 'users')
 users = users.split(',')
 proxies = eval(config.get('proxy', 'ip'))
@@ -141,14 +140,3 @@ def image_email(image):
 def get_time():
     return datetime.datetime.now().strftime('%b-%d-%y %H:%M:%S')
 
-if __name__ == '__main__':
-    '''
-    以下为加载所有配置文件中配置的账户cookie
-    '''
-    config = configparser.ConfigParser()
-    config.read('config.ini')
-    users = config.get('need', 'users')
-    users = users.split(',')
-    print(users)
-    for user in users:
-        get_cookie(user)

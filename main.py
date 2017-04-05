@@ -1,10 +1,17 @@
-from .objects.movie import *
-from .objects.person import *
+from comment.person import *
+from comment.movie import *
+import sys
 
 monkey.patch_all(ssl=False)
 
 
-def main():
+def main(argv):
+    if argv[1] == 'getcookie':
+        users = config.get('need', 'users')
+        users = users.split(',')
+        print(users)
+        for user in users:
+            get_cookie(user)
     f = open('namelist', 'r', encoding='utf8')
     f.seek(22, 0)
     name = f.readline().strip()
@@ -90,5 +97,5 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    main(sys.argv)
     print('there are some changes')

@@ -1,12 +1,7 @@
-import random
-
-import gevent
-from gevent import monkey
 from gevent.queue import JoinableQueue
-from lxml import etree
 
-from .request_util import *
-from ..python3_rank import *
+from comment.python3_rank import *
+from comment.request_util import *
 
 monkey.patch_all(ssl=False)
 

@@ -1,16 +1,10 @@
-import random
-import gevent
-import requests
-from gevent import monkey
 from gevent.queue import JoinableQueue
-from lxml import etree
-from .request_util import *
-from ..python3_rank import *
+from comment.python3_rank import *
+from comment.request_util import *
 
 monkey.patch_all(ssl=False)
 
-config = configparser.ConfigParser()
-config.read('config.ini')
+
 users = config.get('need', 'users')
 users = users.split(',')
 proxy = eval(config.get('proxy', 'ip'))
