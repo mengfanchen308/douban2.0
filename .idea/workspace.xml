@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73c81ceb-6720-4f2c-90a5-362ad532d376" name="Default" comment="comment-&gt;.">
+    <list default="true" id="73c81ceb-6720-4f2c-90a5-362ad532d376" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/comment/movie.py" afterPath="$PROJECT_DIR$/comment/movie.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/comment/mysql_curd.py" afterPath="$PROJECT_DIR$/comment/mysql_curd.py" />
     </list>
     <ignored path="douban2.0.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -595,7 +593,14 @@
       <option name="project" value="LOCAL" />
       <updated>1491383784153</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="comment-&gt;.">
+      <created>1491390075752</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1491390075752</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="ToolWindowManager">
