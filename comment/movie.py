@@ -138,9 +138,9 @@ def get_movie_info(name=None):
             data = q.get()
             m = Movie(data[0], data[1])
             try:
+                print('analysis movie info ' + data[1] + 'started')  # 显示到控制台进行到哪个电影
                 m.analysis_movie_info()
                 gevent.sleep(random.uniform(time[0], time[1]))
-                print('analysis movie info ' + data[1] + 'completed!')  # 显示到控制台进行到哪个电影
             except Exception as e:
                 print(e)
                 print('analysis movie info ' + data[1] + 'error')
