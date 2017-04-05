@@ -1,6 +1,6 @@
 import requests
 
-ips = [ '139.199.169.135:12345', '123.206.116.180:12345', '']
+ips = ['139.199.169.135:12345', '123.206.116.180:12345', '']
 for ip in ips:
     try:
         result = requests.get('https://movie.douban.com/subject/25765735/comments?'

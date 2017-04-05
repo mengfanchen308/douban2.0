@@ -54,8 +54,9 @@ class Movie(object):
     def analysis_movie_info(self):
         try:
             page = etree.HTML(self.downloader(self.comment_num_url, cookies=True, proxy=True))
-        except requests.exceptions.RequestException:
+        except requests.exceptions.RequestException as e:
             print(self.name + 'info download error!')
+            print(repr(e))
             return False
         param = {'movie_name': self.name, 'movie_id': self.num}
         num = page.xpath('//*[@id="comments-section"]/div[1]/h2/span/a')
