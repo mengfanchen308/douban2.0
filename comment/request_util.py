@@ -22,7 +22,7 @@ user_agents = eval(config.get('header', 'user_agent'))
 
 class SleepFunction(object):
     worker_num = 20
-    time = (5, 15)
+    time = (15, 25)
 
     @classmethod
     def run(cls, func):
