@@ -168,7 +168,7 @@ def get_movie_comment(movie_name):
         return False
     print(data[1] + ' started!' + str(data[2]) + 'comments!')
     m_table = Movie(data[0], data[1])
-    m_table.tool.create_table(m_table.name, {'user_name': 'varchar(200) not null primary key',
+    m_table.tool.create_table(m_table.name, {'user_name': 'varchar(255) not null primary key',
                                              'score': 'int',
                                              'comment_time': 'varchar(45)',
                                              'vote': 'int',

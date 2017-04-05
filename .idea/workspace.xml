@@ -26,8 +26,8 @@
       <file leaf-file-name="movie.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/comment/movie.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="167" column="20" selection-start-line="167" selection-start-column="20" selection-end-line="167" selection-end-column="20" />
+            <state relative-caret-position="278">
+              <caret line="170" column="70" selection-start-line="170" selection-start-column="70" selection-end-line="170" selection-end-column="70" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
               </folding>
@@ -660,7 +660,14 @@
       <option name="project" value="LOCAL" />
       <updated>1491390769897</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="bug xiufu">
+      <created>1491391442189</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1491391442189</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1099,8 +1106,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/comment/movie.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="167" column="20" selection-start-line="167" selection-start-column="20" selection-end-line="167" selection-end-column="20" />
+        <state relative-caret-position="278">
+          <caret line="170" column="70" selection-start-line="170" selection-start-column="70" selection-end-line="170" selection-end-column="70" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
           </folding>
