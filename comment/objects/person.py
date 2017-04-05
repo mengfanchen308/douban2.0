@@ -1,11 +1,12 @@
-from .request_util import *
-from .python3_rank import *
-import requests
-from lxml import etree
-from gevent.queue import JoinableQueue
-from gevent import monkey
 import random
 import gevent
+import requests
+from gevent import monkey
+from gevent.queue import JoinableQueue
+from lxml import etree
+from comment.objects.request_util import *
+from comment.python3_rank import *
+
 monkey.patch_all(ssl=False)
 
 config = configparser.ConfigParser()

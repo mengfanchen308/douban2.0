@@ -1,7 +1,6 @@
-from .movie import *
-from .person import *
-from gevent import monkey
-import time
+from comment.objects.movie import *
+from comment.objects.person import *
+
 monkey.patch_all(ssl=False)
 
 

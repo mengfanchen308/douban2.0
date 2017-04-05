@@ -1,8 +1,11 @@
+import json
+
+import requests
 from gevent import monkey
 from gevent.pool import Pool
-import requests
-import json
-from .mysql_curd import MysqlCurd
+
+from comment.objects.mysql_curd import MysqlCurd
+
 monkey.patch_all(ssl=False)
 
 class myspider:

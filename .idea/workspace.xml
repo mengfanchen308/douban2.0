@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73c81ceb-6720-4f2c-90a5-362ad532d376" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comment/objects/__init__.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/comment/movie.py" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/comment/movie.py" afterPath="$PROJECT_DIR$/comment/objects/movie.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/comment/mysql_curd.py" afterPath="$PROJECT_DIR$/comment/objects/mysql_curd.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/comment/person.py" afterPath="$PROJECT_DIR$/comment/objects/person.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/comment/request_util.py" afterPath="$PROJECT_DIR$/comment/objects/request_util.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/comment/main.py" afterPath="$PROJECT_DIR$/comment/main.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/comment/movie.py" afterPath="$PROJECT_DIR$/comment/movie.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/comment/mysql_curd.py" afterPath="$PROJECT_DIR$/comment/mysql_curd.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/comment/person.py" afterPath="$PROJECT_DIR$/comment/person.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/comment/python3_rank.py" afterPath="$PROJECT_DIR$/comment/python3_rank.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/comment/request_util.py" afterPath="$PROJECT_DIR$/comment/request_util.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/comment/shiyan.py" afterPath="$PROJECT_DIR$/comment/shiyan.py" />
     </list>
     <ignored path="douban2.0.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,26 +31,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="movie.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/comment/movie.py">
+        <entry file="file://$PROJECT_DIR$/comment/objects/movie.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            <state relative-caret-position="0">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="person.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/comment/person.py">
+      <file leaf-file-name="person.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/comment/objects/person.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-              <folding />
+            <state relative-caret-position="160">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="shiyan.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="shiyan.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/comment/shiyan.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
@@ -62,17 +65,17 @@
       <file leaf-file-name="python3_rank.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/comment/python3_rank.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="99">
+              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
               <folding>
-                <element signature="e#0#25#0" expanded="true" />
+                <element signature="e#0#11#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="request_util.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/comment/request_util.py">
+        <entry file="file://$PROJECT_DIR$/comment/objects/request_util.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
               <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
@@ -84,17 +87,17 @@
       <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/comment/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="80">
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding>
-                <element signature="e#0#20#0" expanded="true" />
+                <element signature="e#0#35#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="mysql_curd.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/comment/mysql_curd.py">
+        <entry file="file://$PROJECT_DIR$/comment/objects/mysql_curd.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -106,6 +109,13 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -121,12 +131,13 @@
         <option value="$PROJECT_DIR$/comment/config.ini" />
         <option value="$PROJECT_DIR$/comment/sql" />
         <option value="$PROJECT_DIR$/comment/mysql_curd.py" />
-        <option value="$PROJECT_DIR$/comment/main.py" />
         <option value="$PROJECT_DIR$/comment/movie.py" />
         <option value="$PROJECT_DIR$/comment/person.py" />
-        <option value="$PROJECT_DIR$/comment/python3_rank.py" />
         <option value="$PROJECT_DIR$/comment/request_util.py" />
         <option value="$PROJECT_DIR$/comment/shiyan.py" />
+        <option value="$PROJECT_DIR$/comment/main.py" />
+        <option value="$PROJECT_DIR$/comment/python3_rank.py" />
+        <option value="$PROJECT_DIR$/comment/objects/person.py" />
       </list>
     </option>
   </component>
@@ -194,6 +205,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="douban2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="douban2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="comment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="objects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -203,6 +232,11 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../lena" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mfc\Desktop\Homework\Python_work\douban2.0\comment\objects" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.main">
     <configuration default="false" name="shiyan" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -234,7 +268,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="douban2.0" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/comment/request_util.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\mfc\Desktop\Homework\Python_work\douban2.0\comment\objects\request_util.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -268,7 +302,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="douban2.0" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/comment/person.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\mfc\Desktop\Homework\Python_work\douban2.0\comment\objects\person.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -285,7 +319,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="douban2.0" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/comment/movie.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\mfc\Desktop\Homework\Python_work\douban2.0\comment\objects\movie.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -511,7 +545,14 @@
       <option name="project" value="LOCAL" />
       <updated>1491202839807</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="comment-&gt;.">
+      <created>1491367170339</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1491367170339</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -553,7 +594,8 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="vcs test" />
     <MESSAGE value="ssome change" />
-    <option name="LAST_COMMIT_MESSAGE" value="ssome change" />
+    <MESSAGE value="comment-&gt;." />
+    <option name="LAST_COMMIT_MESSAGE" value="comment-&gt;." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -579,7 +621,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/comment/mysql_curd.py">
+    <entry file="file://$PROJECT_DIR$/comment/objects/mysql_curd.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -593,7 +635,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/comment/mysql_curd.py">
+    <entry file="file://$PROJECT_DIR$/comment/objects/mysql_curd.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -839,13 +881,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/comment/namelist">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/comment/config.ini">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
@@ -854,49 +889,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/comment/mysql_curd.py">
+    <entry file="file://$PROJECT_DIR$/comment/objects/movie.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/comment/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#20#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/comment/movie.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/comment/person.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/comment/python3_rank.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -908,10 +905,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/comment/request_util.py">
+    <entry file="file://$PROJECT_DIR$/comment/namelist">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        <state relative-caret-position="40">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
           <folding />
         </state>
       </provider>
@@ -921,6 +918,54 @@
         <state relative-caret-position="120">
           <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comment/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comment/objects/mysql_curd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comment/objects/request_util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comment/python3_rank.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comment/objects/person.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
