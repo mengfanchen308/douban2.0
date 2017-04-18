@@ -1,4 +1,5 @@
 import requests
+from comment.mysql_curd import *
 
 ips = ['139.199.169.135:12345', '123.206.116.180:12345', '139.199.189.124:12345']
 for ip in ips:

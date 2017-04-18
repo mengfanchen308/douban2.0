@@ -59,24 +59,29 @@ class Movie(object):
             print(repr(e))
             return False
         param = {'movie_name': self.name, 'movie_id': self.num}
-        num = page.xpath('//*[@id="comments-section"]/div[1]/h2/span/a')
-        param['comment_num'] = int(num[0].text.split(' ')[1])
+        try:
+            num = page.xpath('//*[@id="comments-section"]/div[1]/h2/span/a')
+            param['comment_num'] = int(num[0].text.split(' ')[1])
+        except Exception as e:
+            print('comment num error')
 
         director_or_screen = {'导演': 'director', '编剧': 'screenwriter'}
+        try:
+            key = page.xpath('//*[@id="info"]/span[1]/span[@class="pl"]')[0].text
+            value = director_or_screen.get(key)
+            if value:
+                param[value] = ''
+                for d in page.xpath('//*[@id="info"]/span[1]/span[@class="attrs"]/a'):
+                    param[value] += d.text + ','
 
-        key = page.xpath('//*[@id="info"]/span[1]/span[@class="pl"]')[0].text
-        value = director_or_screen.get(key)
-        if value:
-            param[value] = ''
-            for d in page.xpath('//*[@id="info"]/span[1]/span[@class="attrs"]/a'):
-                param[value] += d.text + ','
-
-        key = page.xpath('//*[@id="info"]/span[2]/span[@class="pl"]')[0].text
-        value = director_or_screen.get(key)
-        if value:
-            param[value] = ''
-            for d in page.xpath('//*[@id="info"]/span[2]/span[@class="attrs"]/a'):
-                param[value] += d.text + ','
+            key = page.xpath('//*[@id="info"]/span[2]/span[@class="pl"]')[0].text
+            value = director_or_screen.get(key)
+            if value:
+                param[value] = ''
+                for d in page.xpath('//*[@id="info"]/span[2]/span[@class="attrs"]/a'):
+                    param[value] += d.text + ','
+        except Exception as e:
+            pass
 
         try:
             actors = page.xpath('//*[@id="info"]/span[@class="actor"]/span[2]')[0]
@@ -85,26 +90,36 @@ class Movie(object):
                 param['actor'] += _.text + ','
         except IndexError:
             pass
-
-        mark = page.xpath('//*[@id="info"]')[0]
-        param['type'] = ''
-        for temp in mark.xpath('span[@property="v:genre"]'):
-            param['type'] += temp.text + ','
+            # print('actor error')
+        try:
+            mark = page.xpath('//*[@id="info"]')[0]
+            param['type'] = ''
+            for temp in mark.xpath('span[@property="v:genre"]'):
+                param['type'] += temp.text + ','
+        except Exception as e:
+            pass
+            # print('type error')
 
         dates = page.xpath('//*[@id="info"]/span[@property="v:initialReleaseDate"]')
         param['date'] = ''
         for d in dates:
             param['date'] += d.text + ','
 
-        mark = page.xpath('//*[@id="link-report"]//span[@property="v:summary"]')
-        param['image'] = page.xpath('//*[@id="mainpic"]/a/img')[0].get('src')
-        param['abstract'] = ''
-        for temp in mark[0].xpath('text()'):
-            param['abstract'] += temp.strip()
-
-        score = page.xpath('//*[@id="interest_sectl"]/div[1]/div[2]/strong')[0].text
-        if score:
-            param['score'] = float(score)
+        try:
+            mark = page.xpath('//*[@id="link-report"]//span[@property="v:summary"]')
+            param['image'] = page.xpath('//*[@id="mainpic"]/a/img')[0].get('src')
+            param['abstract'] = ''
+            for temp in mark[0].xpath('text()'):
+                param['abstract'] += temp.strip()
+        except Exception as e:
+            # print('abstract error')
+            pass
+        try:
+            score = page.xpath('//*[@id="interest_sectl"]/div[1]/div[2]/strong')[0].text
+            if score:
+                param['score'] = float(score)
+        except Exception as e:
+            pass
 
         try:
             self.tool.replace_mysql('movie_info', param)
@@ -223,6 +238,7 @@ def get_movie_id():
             gevent.sleep(random.uniform(time[0], time[1]))
             try:
                 count = 0
+                count1 = 0
                 for _ in page.xpath('//*[@id="content"]/div/div[1]/div[2]/table[@width="100%"]'):
                     try:
                         mark = _.xpath('tr/td[2]/div')[0]
@@ -231,16 +247,20 @@ def get_movie_id():
                         # score = mark.xpath('div/span[2]')[0].text
                         # comment_num = mark.xpath('div/span[3]')[0].text[1:-4]
                         tool.replace_mysql('name_id', {'movie_id': id, 'movie_name': _name})
-                    except IndexError:
+                        count1 += 1
+                        print('get movie id '+_name+'completed!!!')
+                    except IndexError as e:
+                        print('get movie id sub error!!!'+repr(e))
                         continue
                     count += 1
                     if count == 3:
                         break
                 tool.close_connect()
-                own_tool = MysqlCurd('douban_movie')
-                own_tool.connect_mysql()
-                own_tool.replace_mysql('movie_name', {'version': 1, 'name': name})
-                own_tool.close_connect()
+                if count1>0:
+                    own_tool = MysqlCurd('douban_movie')
+                    own_tool.connect_mysql()
+                    own_tool.replace_mysql('movie_name', {'version': 1, 'name': name})
+                    own_tool.close_connect()
                 print('get movie id ' + name + ' completed!')
             except Exception as e:
                 error_q.put(name)
