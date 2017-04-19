@@ -255,12 +255,9 @@ def get_movie_id():
                     count += 1
                     if count == 3:
                         break
-                tool.close_connect()
                 if count1>0:
-                    own_tool = MysqlCurd('douban_movie')
-                    own_tool.connect_mysql()
-                    own_tool.replace_mysql('movie_name', {'version': 1, 'name': name})
-                    own_tool.close_connect()
+                    # tool.replace_mysql('movie_name', {'version': 1, 'name': name})
+                    tool.close_connect()
                 print('get movie id ' + name + ' completed!')
             except Exception as e:
                 error_q.put(name)
