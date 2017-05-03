@@ -38,8 +38,8 @@
       <file leaf-file-name="config.ini" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config.ini">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="24" column="66" selection-start-line="24" selection-start-column="66" selection-end-line="24" selection-end-column="66" />
+            <state relative-caret-position="187">
+              <caret line="23" column="73" selection-start-line="23" selection-start-column="73" selection-end-line="23" selection-end-column="73" />
               <folding />
             </state>
           </provider>
@@ -799,7 +799,14 @@
       <option name="project" value="LOCAL" />
       <updated>1493783225292</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="ipchange">
+      <created>1493783388381</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1493783388381</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -867,7 +874,8 @@
     <MESSAGE value="mail change" />
     <MESSAGE value="shell change" />
     <MESSAGE value="name list change" />
-    <option name="LAST_COMMIT_MESSAGE" value="name list change" />
+    <MESSAGE value="ipchange" />
+    <option name="LAST_COMMIT_MESSAGE" value="ipchange" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1228,8 +1236,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config.ini">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="24" column="66" selection-start-line="24" selection-start-column="66" selection-end-line="24" selection-end-column="66" />
+        <state relative-caret-position="187">
+          <caret line="23" column="73" selection-start-line="23" selection-start-column="73" selection-end-line="23" selection-end-column="73" />
           <folding />
         </state>
       </provider>
