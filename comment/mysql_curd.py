@@ -53,7 +53,7 @@ class MysqlCurd:
         :param param:
         :return:
         """
-        sql = 'update ' + table + ' set '
+        sql = 'update `' + table + '` set '
         value = []
         for key in param[1].keys():
             sql += key + ' = %s,'
@@ -78,7 +78,7 @@ class MysqlCurd:
         :return:
         """
         value = []  # 用于存储所有参数
-        sql = 'replace into ' + table + ' ('
+        sql = 'replace into `' + table + '` ('
         for key in param.keys():
             sql += key + ','
             value.append(param.get(key))
@@ -184,7 +184,7 @@ class MysqlCurd:
         :param param:
         :return:
         """
-        sql = 'drop table if exists ' + table + ';create table ' + table + ' ('
+        sql = 'drop table if exists `' + table + '`;create table `' + table + '` ('
         for key in param.keys():
             sql += key + ' ' + str(param.get(key)) + ', '
         sql += 'time timestamp default current_timestamp)character set utf8 collate utf8_general_ci;'
