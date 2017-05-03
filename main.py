@@ -59,6 +59,7 @@ def main(argv):
                     get_movie_info()
                     print('过滤第' + str(_) + '次!')
                 mysql_tool.delete_mysql('name_id', {'version': 0})
+                mysql_tool.close_connect()
 
             elif cmd == '3':
                 for line in f:

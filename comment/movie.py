@@ -147,6 +147,7 @@ def get_movie_info(name=None):
         for temp in result:
             if not tool.query_mysql_condition('movie_info', [{'movie_id': temp[0]}, ['movie_name']]):
                 q.put(temp)
+    tool.close_connect()
     error_q = JoinableQueue()
 
     def temp(time):
@@ -161,6 +162,7 @@ def get_movie_info(name=None):
                 print(e)
                 print('analysis movie info ' + data[1] + 'error')
                 error_q.put(data[1])
+            m.tool.close_connect()
             print(len(q), 'remain!')
     worker = SleepFunction()
     worker.run(temp)
@@ -178,6 +180,7 @@ def get_movie_comment(movie_name):
         data = tool.query_mysql_condition('movie_info', [{'movie_name': movie_name}, ['movie_id',
                                                                                       'movie_name',
                                                                                       'comment_num']])[0]
+        tool.close_connect()
     except IndexError:
         print('dont have this movie id!')
         return False
@@ -188,6 +191,7 @@ def get_movie_comment(movie_name):
                                              'comment_time': 'varchar(45)',
                                              'vote': 'int',
                                              'comment': 'varchar(1000) not null'})
+    m_table.tool.close_connect()
     comment_num = data[2]
     num_q = JoinableQueue()
     for i in range(0, comment_num, 20):
@@ -208,6 +212,7 @@ def get_movie_comment(movie_name):
             except Exception as e:
                 print(e)
                 print(index + 'error')
+            m.tool.close_connect()
             print(len(num_q))
     worker = SleepFunction()
     worker.run(temp)
@@ -221,6 +226,7 @@ def get_movie_id():
     for temp in result:
         if not baidu_tool.query_mysql_condition('name_id', [{'movie_name': temp[0]}, ['movie_id']]):
             q.put(temp[0])
+    baidu_tool.close_connect()
     error_q = JoinableQueue()
 
     def crawl(time):
