@@ -19,7 +19,10 @@ def main(argv):
         name = f.readline().strip()
         print('开始对' + name + '进行操作')
         if name == 'movie':
-            cmd = input('1:get_movie_id  2:get_movie_info  3:get_movie_comments\n')
+            if argv[2] is int:
+                cmd = argv[2]
+            else:
+                cmd = input('1:get_movie_id  2:get_movie_info  3:get_movie_comments\n')
             if cmd == '1':
                 mysql_tool = MysqlCurd('douban_movie')
                 mysql_tool.connect_mysql()

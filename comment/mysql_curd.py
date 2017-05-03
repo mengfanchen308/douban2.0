@@ -87,7 +87,6 @@ class MysqlCurd:
         sql = sql[:-1]
         sql += ')'
         try:
-            print(sql)
             self.curor.execute(sql, value)
             self.conn.commit()
         except Exception as e:
