@@ -19,7 +19,7 @@ def main(argv):
         name = f.readline().strip()
         print('开始对' + name + '进行操作')
         if name == 'movie':
-            if argv[2] is int:
+            if argv[2]:
                 cmd = argv[2]
             else:
                 cmd = input('1:get_movie_id  2:get_movie_info  3:get_movie_comments\n')
