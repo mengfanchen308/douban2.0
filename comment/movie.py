@@ -49,7 +49,7 @@ class Movie(object):
                 print(e)
                 print('this comment no time no vote')
             self.tool.replace_mysql(self.name, param)
-        self.tool.close_connect()
+        # self.tool.close_connect()
 
     def analysis_movie_info(self):
         try:
@@ -123,7 +123,7 @@ class Movie(object):
 
         try:
             self.tool.replace_mysql('movie_info', param)
-            self.tool.close_connect()
+            # self.tool.close_connect()
             baidu_tool = MysqlCurd('douban_movie')
             baidu_tool.connect_mysql()
             baidu_tool.replace_mysql('name_id', {'movie_id': self.num, 'movie_name': self.name, 'version': 1})
